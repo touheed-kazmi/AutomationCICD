@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sf2.TestComponents.BaseTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.93 s -- in sf2.TestComponents.BaseTest
